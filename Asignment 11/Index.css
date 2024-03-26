@@ -1,0 +1,40 @@
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    padding-right: 60px;
+  }
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #FFB534;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: #FFB534;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+nav{
+    background-color: #31363F;
+}
+ nav img{
+    height: 110px;
+    padding-left: 10px;
+    padding-top: 12px;
+}
+span{
+    background-color: #50727B;
+}
+img{
+    height: 490px;
+}
+td, th {
+    border: 12px solid,black;
+    text-align: left;
+    padding: 8px;
+  }
